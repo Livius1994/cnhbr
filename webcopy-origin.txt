@@ -1,0 +1,190 @@
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\scripts\utms\latest-6.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\css2-5
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n-5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n-5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n-5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n-5.ttf
+Content Type: font/ttf
+
+Uri: https://www.clarity.ms/
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\index-5.htm
+Content Type: 
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-6PZ2RGNSZS
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\gtag\js-5
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/chat.html
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\chat.html
+Content Type: text/html
+
+Uri: https://www.inscricaodacnh.online/acesso/css/3edac010e5370bd2.css
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\css\3edac010e5370bd2-5.css
+Content Type: text/css
+
+Uri: https://www.inscricaodacnh.online/acesso/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\css\all.min-5.css
+Content Type: text/css
+
+Uri: https://www.inscricaodacnh.online/acesso/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\fonts\fa-brands-400-5.ttf
+Content Type: font/ttf
+
+Uri: https://www.inscricaodacnh.online/acesso/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\fonts\fa-brands-400-5.woff2
+Content Type: font/woff2
+
+Uri: https://www.inscricaodacnh.online/acesso/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\fonts\fa-regular-400-5.ttf
+Content Type: font/ttf
+
+Uri: https://www.inscricaodacnh.online/acesso/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\fonts\fa-regular-400-5.woff2
+Content Type: font/woff2
+
+Uri: https://www.inscricaodacnh.online/acesso/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\fonts\fa-solid-900-5.ttf
+Content Type: font/ttf
+
+Uri: https://www.inscricaodacnh.online/acesso/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\fonts\fa-solid-900-5.woff2
+Content Type: font/woff2
+
+Uri: https://www.inscricaodacnh.online/acesso/fonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\fonts\fa-v4compatibility-5.ttf
+Content Type: font/ttf
+
+Uri: https://www.inscricaodacnh.online/acesso/fonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\fonts\fa-v4compatibility-5.woff2
+Content Type: font/woff2
+
+Uri: https://www.inscricaodacnh.online/acesso/fonts/rawline-400.woff2
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\fonts\rawline-400-5.woff2
+Content Type: font/woff2
+
+Uri: https://www.inscricaodacnh.online/acesso/fonts/rawline-500.woff2
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\fonts\rawline-500-5.woff2
+Content Type: font/woff2
+
+Uri: https://www.inscricaodacnh.online/acesso/fonts/rawline-600.woff2
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\fonts\rawline-600-5.woff2
+Content Type: font/woff2
+
+Uri: https://www.inscricaodacnh.online/acesso/fonts/rawline-700.woff2
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\fonts\rawline-700-5.woff2
+Content Type: font/woff2
+
+Uri: https://www.inscricaodacnh.online/acesso/images/favicon.ico
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\images\favicon-5.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.inscricaodacnh.online/acesso/js/118-708933cfbf3dea7f.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\118-708933cfbf3dea7f-5.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/js/171-0323ffcb3f5eb563.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\171-0323ffcb3f5eb563-5.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/js/255-5f9bf618114199b0.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\255-5f9bf618114199b0-5.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/js/339-e939ce1e6516c136.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\339-e939ce1e6516c136-5.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/js/4bd1b696-c023c6e3521b1417.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\4bd1b696-c023c6e3521b1417-5.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/js/checkify-interceptor.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\checkify-interceptor-5.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/js/global-error-8ca21a0fe336d5e4.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\global-error-8ca21a0fe336d5e4-5.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/js/layout-3e6610659fe84457.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\layout-3e6610659fe84457-5.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/js/main-app-3291ca389d666676.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\main-app-3291ca389d666676-5.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/js/page-3ac68ff2503bedc9.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\page-3ac68ff2503bedc9.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/js/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\polyfills-42372ed130431b0a-5.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/js/webpack-477165be481329c6.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\webpack-477165be481329c6-5.js
+Content Type: application/javascript
+
+nline/acesso/js/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\polyfills-42372ed130431b0a-4.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/js/webpack-477165be481329c6.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\webpack-477165be481329c6-4.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/verify-availability.html
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\verify-availability.html
+Content Type: text/html
+
+on/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/saiba-mais.html
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\saiba-mais.html
+Content Type: text/html
+
+acnh.online/acesso/js/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\polyfills-42372ed130431b0a-1.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/js/webpack-477165be481329c6.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\webpack-477165be481329c6-1.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/login.html
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\login.html
+Content Type: text/html
+
+line/acesso/js/page-1e699b70008275a3.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\page-1e699b70008275a3.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/js/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/js/webpack-477165be481329c6.js
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\js\webpack-477165be481329c6.js
+Content Type: application/javascript
+
+Uri: https://www.inscricaodacnh.online/acesso/media/video1.mp4
+File Name: C:\Downloaded Web Sites\www.inscricaodacnh.online\acesso\media\video1.mp4
+Content Type: video/mp4
+

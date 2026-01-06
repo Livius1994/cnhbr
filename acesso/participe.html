@@ -1,0 +1,406 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script src="../scripts/utms/latest.js" data-utmify-prevent-xcod-sck="" data-utmify-prevent-subids="" async="" defer=""></script>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CNH Social 2025 - Inscrição no Programa</title>
+    <meta name="description" content="Faça sua inscrição no Programa CNH Social 2025. Habilitação gratuita para quem precisa.">
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      
+      body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(135deg, #1565c0 0%, #1976d2 100%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        padding: 20px;
+      }
+      
+      .container {
+        background: white;
+        padding: 45px 40px;
+        max-width: 580px;
+        width: 100%;
+        border-radius: 12px;
+        box-shadow: 0 15px 50px rgba(0, 0, 0, 0.4);
+        text-align: center;
+        animation: slideUp 0.5s ease-out;
+      }
+      
+      @keyframes slideUp {
+        from {
+          opacity: 0;
+          transform: translateY(30px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+      
+      .logo {
+        font-size: 55px;
+        margin-bottom: 15px;
+      }
+      
+      .badge {
+        display: inline-block;
+        background: linear-gradient(135deg, #1565c0 0%, #1976d2 100%);
+        color: white;
+        padding: 8px 20px;
+        border-radius: 20px;
+        font-size: 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-bottom: 20px;
+      }
+      
+      h1 {
+        font-size: 30px;
+        color: #2c3e50;
+        margin-bottom: 12px;
+        line-height: 1.2;
+      }
+      
+      .subtitle {
+        font-size: 17px;
+        color: #666;
+        margin-bottom: 30px;
+        line-height: 1.6;
+      }
+      
+      .highlight {
+        color: #1565c0;
+        font-weight: 600;
+      }
+      
+      .info-box {
+        background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+        padding: 25px;
+        border-radius: 12px;
+        margin: 25px 0;
+        border: 2px solid #64b5f6;
+      }
+      
+      .info-box-title {
+        font-size: 16px;
+        color: #1565c0;
+        margin-bottom: 10px;
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+      
+      .info-box-value {
+        font-size: 28px;
+        color: #0d47a1;
+        font-weight: 900;
+        margin: 10px 0;
+      }
+      
+      .info-box-text {
+        font-size: 13px;
+        color: #666;
+        margin-top: 8px;
+      }
+      
+      .alert-box {
+        background: #fff3e0;
+        padding: 20px;
+        border-radius: 8px;
+        margin: 25px 0;
+        border-left: 4px solid #ff9800;
+        text-align: left;
+      }
+      
+      .alert-title {
+        font-size: 14px;
+        color: #e65100;
+        margin-bottom: 8px;
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+      }
+      
+      .alert-title::before {
+        content: "📢";
+        margin-right: 8px;
+        font-size: 18px;
+      }
+      
+      .alert-text {
+        font-size: 13px;
+        color: #666;
+        line-height: 1.5;
+      }
+      
+      .steps-mini {
+        text-align: left;
+        background: #f8f9fa;
+        padding: 20px;
+        border-radius: 8px;
+        margin: 25px 0;
+      }
+      
+      .steps-mini h3 {
+        font-size: 14px;
+        color: #2c3e50;
+        margin-bottom: 15px;
+        font-weight: 700;
+      }
+      
+      .step-mini {
+        display: flex;
+        align-items: center;
+        margin: 10px 0;
+        font-size: 14px;
+        color: #555;
+      }
+      
+      .step-mini span {
+        background: #1565c0;
+        color: white;
+        width: 24px;
+        height: 24px;
+        border-radius: 50%;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 600;
+        font-size: 12px;
+        margin-right: 10px;
+        flex-shrink: 0;
+      }
+      
+      .benefits {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 12px;
+        margin: 25px 0;
+        text-align: left;
+      }
+      
+      .benefit-item {
+        font-size: 13px;
+        color: #555;
+        display: flex;
+        align-items: center;
+      }
+      
+      .benefit-item::before {
+        content: "✓";
+        color: #27ae60;
+        font-weight: 700;
+        margin-right: 8px;
+        font-size: 16px;
+      }
+      
+      .cta-button {
+        background: linear-gradient(135deg, #1565c0 0%, #1976d2 100%);
+        color: white;
+        border: none;
+        padding: 22px 50px;
+        font-size: 20px;
+        font-weight: 700;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        box-shadow: 0 8px 20px rgba(21, 101, 192, 0.4);
+        width: 100%;
+        max-width: 400px;
+        margin-top: 10px;
+      }
+      
+      .cta-button:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 12px 30px rgba(21, 101, 192, 0.6);
+      }
+      
+      .cta-button:disabled {
+        background: #95a5a6;
+        cursor: not-allowed;
+        transform: none;
+        box-shadow: none;
+      }
+      
+      .info-text {
+        margin-top: 30px;
+        font-size: 13px;
+        color: #999;
+        line-height: 1.8;
+      }
+      
+      .info-text strong {
+        color: #1565c0;
+      }
+      
+      .loading {
+        display: none;
+        color: #1565c0;
+        margin-top: 20px;
+        font-size: 15px;
+        font-weight: 500;
+      }
+      
+      .spinner {
+        display: inline-block;
+        width: 18px;
+        height: 18px;
+        border: 3px solid #f3f3f3;
+        border-top: 3px solid #1565c0;
+        border-radius: 50%;
+        animation: spin 0.8s linear infinite;
+        margin-right: 10px;
+      }
+      
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      
+      @media (max-width: 600px) {
+        .container {
+          padding: 35px 25px;
+        }
+        
+        h1 {
+          font-size: 26px;
+        }
+        
+        .subtitle {
+          font-size: 15px;
+        }
+        
+        .info-box-value {
+          font-size: 24px;
+        }
+        
+        .benefits {
+          grid-template-columns: 1fr;
+        }
+        
+        .cta-button {
+          padding: 20px 40px;
+          font-size: 18px;
+        }
+        
+        .step-mini {
+          font-size: 13px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="logo">🚗</div>
+      
+      <div class="badge">Programa <strong>CNH Social 2025</strong></div>
+      
+      <h1>CNH Social Gratuita</h1>
+      
+      <p class="subtitle">
+        Faça sua <span class="highlight">inscrição no programa</span> 
+        <strong>CNH Social 2025</strong> e conquiste sua habilitação gratuitamente!
+      </p>
+      
+      <div class="info-box">
+        <div class="info-box-title">🎯 Programa do Governo</div>
+        <div class="info-box-value">HABILITAÇÃO GRATUITA</div>
+        <div class="info-box-text">Para quem atende os requisitos do programa</div>
+      </div>
+      
+      <div class="alert-box">
+        <div class="alert-title">Inscrições Abertas - Vagas Limitadas</div>
+        <div class="alert-text">As inscrições para o programa CNH Social 2025 estão abertas. Não perca essa oportunidade!</div>
+      </div>
+      
+      <div class="steps-mini">
+        <h3>📋 Como se Inscrever no Programa:</h3>
+        <div class="step-mini">
+          <span>1</span>
+          <div>Verificar se atende os requisitos</div>
+        </div>
+        <div class="step-mini">
+          <span>2</span>
+          <div>Preencher o formulário de inscrição</div>
+        </div>
+        <div class="step-mini">
+          <span>3</span>
+          <div>Enviar documentos necessários</div>
+        </div>
+        <div class="step-mini">
+          <span>4</span>
+          <div>Aguardar análise e aprovação</div>
+        </div>
+      </div>
+      
+      <div class="benefits">
+        <div class="benefit-item">100% gratuito</div>
+        <div class="benefit-item">Programa oficial</div>
+        <div class="benefit-item">Inscrição online</div>
+        <div class="benefit-item">Suporte disponível</div>
+      </div>
+      
+      <button id="btn-cta" class="cta-button">
+        Se Inscrever no Programa →
+      </button>
+      
+      <div class="loading" id="loading">
+        <div class="spinner"></div>
+        Abrindo inscrição do programa...
+      </div>
+      
+      <p class="info-text">
+        ✓ Programa oficial <strong>CNH Social 2025</strong><br>
+        ✓ Dados protegidos pela <strong>LGPD</strong><br>
+        <span style="font-size: 11px; color: #bbb; margin-top: 8px; display: inline-block;">
+          <a href="#" style="color: #bbb; text-decoration: none;">Termos de Uso</a> • 
+          <a href="#" style="color: #bbb; text-decoration: none;">Política de Privacidade</a>
+        </span>
+      </p>
+    </div>
+
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const btnCta = document.getElementById('btn-cta');
+        const loading = document.getElementById('loading');
+        
+        btnCta.addEventListener('click', function() {
+          btnCta.disabled = true;
+          btnCta.textContent = 'Carregando...';
+          loading.style.display = 'block';
+          
+          // Pega as UTMs da URL atual
+          const urlParams = new URLSearchParams(window.location.search);
+          const utmParams = {};
+          
+          ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'src', 'sck'].forEach(param => {
+            if (urlParams.has(param)) {
+              utmParams[param] = urlParams.get(param);
+            }
+          });
+          
+          // Monta a URL de destino com as UTMs
+          let destino = 'index.html';
+          const utmString = new URLSearchParams(utmParams).toString();
+          
+          if (utmString) {
+            destino += '?' + utmString;
+          }
+          
+          setTimeout(() => {
+            window.location.href = destino;
+          }, 1200);
+        });
+      });
+    </script>
+  </body>
+</html>
