@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecionando...</title>
+    <script>
+        (function() {
+            var visited = localStorage.getItem('ups_visited');
+            if (!visited) {
+                // Primeira visita - vai pro upsell
+                localStorage.setItem('ups_visited', '1');
+                window.location.href = 'success/index.html' + window.location.search;
+            } else {
+                // Já visitou - vai pro obrigado
+                window.location.href = 'cadastro-concluido/index.html' + window.location.search;
+            }
+        })();
+    </script>
+<script async src="https://cdn.utmify.com.br/scripts/utms/latest.js" data-utmify-prevent-xcod-sck="true" data-utmify-prevent-subids="true"></script>
+</head>
+<body>
+    <p>Redirecionando...</p>
+</body>
+</html>
